@@ -1,4 +1,4 @@
-# 使用Rust语言调用openai API解决leetcode第5题 回文数的程序
+# 使用Rust语言调用openai API解决leetcode第5题 回文串的程序
 
 ## 如何运行
 
